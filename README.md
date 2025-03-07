@@ -1,7 +1,7 @@
 # Baseball Swing Analyzer
 
 ## Abstract
-Technology is rapidly being integrated into sports to help athletes optimize their movements. This project was developed during a **hackathon** to design and prototype a system for analyzing the biomechanical efficiency of a batter’s swing in real time. By utilizing **Inertial Measurement Units (IMUs)** and **microcontrollers**, the system captures and outputs swing metrics via an **iPad interface**, providing intuitive feedback for users.
+Technology is rapidly being integrated into sports to help athletes optimize their movements. This project was developed during a **hackathon** to design and prototype a system for analyzing the biomechanical efficiency of a batter’s swing in real time. By utilizing **Inertial Measurement Units (IMUs)** and **microcontrollers**, the system captures and outputs swing metrics via an **web browser interface**, providing intuitive feedback for users.
 
 The system consists of **two IMUs** connected to a **Raspberry Pi via TCP sockets**. The Raspberry Pi operates as an **ad-hoc network**, allowing users to connect to its IP address and access the swing measurement interface through a **web browser**.
 
@@ -52,8 +52,11 @@ Developed during a **MLH Hackathon** by the .
 ---
 
 ## 📷 Images & Visuals
-### Sensor Pack Setup
-![Sensor Pack Setup](IMG_2830.heic)
+### Sensor Pack Setup [shoulders]
+![Sensor Pack Setup](IMG_2830.png)
+
+### Full Sensor Pack Setup
+![Sensor Pack Setup](IMG_2830.png)
 
 ### Swing Measurement Interface
 ![Swing Measurement Metrics](Metrics%20Screenshot.png)
