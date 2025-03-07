@@ -45,6 +45,7 @@ This project aims to create a **financially feasible alternative** that maintain
 🔹 Enhance software algorithms for even greater accuracy.  
 🔹 Improve sensor calibration methods.  
 🔹 Expand to track additional biomechanical metrics.
+🔹 Integrate bluetooth to increase connectivtity efficiency
 
 ## Contributions
 Developed during a **MLH Hackathon** by the .
@@ -53,10 +54,10 @@ Developed during a **MLH Hackathon** by the .
 
 ## 📷 Images & Visuals
 ### Sensor Pack Setup [shoulders]
-![Sensor Pack Setup](IMG_2830.png)
+![Sensor Pack Setup](IMG_2830 Small.png)
 
 ### Full Sensor Pack Setup
-![Sensor Pack Setup](IMG_2830.png)
+![Sensor Pack Setup](IMG_2861.png)
 
 ### Swing Measurement Interface
 ![Swing Measurement Metrics](Metrics%20Screenshot.png)
