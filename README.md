@@ -57,7 +57,7 @@ Developed during a **MLH Hackathon** by the .
 ![Sensor Pack Setup](IMG_2861Small.png)
 
 ### Full Sensor Pack Setup
-![Sensor Pack Setup](IMG_2861.png)
+![Sensor Pack Setup](IMG_2830.png)
 
 ### Swing Measurement Interface
 ![Swing Measurement Metrics](Metrics%20Screenshot.png)
