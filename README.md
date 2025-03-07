@@ -54,7 +54,7 @@ Developed during a **MLH Hackathon** by the .
 
 ## 📷 Images & Visuals
 ### Sensor Pack Setup [shoulders]
-![Sensor Pack Setup](IMG_2830 Small.png)
+![Sensor Pack Setup](IMG_2861Small.png)
 
 ### Full Sensor Pack Setup
 ![Sensor Pack Setup](IMG_2861.png)
